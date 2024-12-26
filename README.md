@@ -34,6 +34,7 @@ Calculate required quantities of products and their total cost for an event cate
 - ``Calc.java`` Mathematical calculations
 - ``Planes.java`` Airplane-related calculations
 - ``Catering.java`` Catering service calculations
+
 ``test/``
 - ``Testprotokolle.txt`` Test cases and results for all tasks
 
