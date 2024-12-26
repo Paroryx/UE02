@@ -27,13 +27,14 @@ Calculate required quantities of products and their total cost for an event cate
 ---
 
 ## 📂 Project Structure  
-``UE02/``
+``src/``
 - ``In.java`` Helper class for input
 - ``Out.java`` Helper class for output
 - ``MyFirstProgram.java`` Debugging task
 - ``Calc.java`` Mathematical calculations
 - ``Planes.java`` Airplane-related calculations
-``Catering.java`` Catering service calculations
+- ``Catering.java`` Catering service calculations
+``test/``
 - ``Testprotokolle.txt`` Test cases and results for all tasks
 
 ---
